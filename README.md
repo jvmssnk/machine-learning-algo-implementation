@@ -1,2 +1,2 @@
-# resume
-ALL MY ACHIEVEMENTS
+# machine learning algorithms implemented by me
+
